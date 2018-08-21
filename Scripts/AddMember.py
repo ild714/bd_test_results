@@ -1,4 +1,4 @@
-# comment 1
+#  comment 1
 from tkinter import *
 def Add(max_rows,max_cols,root2,data,ent1,root,max_rows1,color6,color7,font1):
     """
